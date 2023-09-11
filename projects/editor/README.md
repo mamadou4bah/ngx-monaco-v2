@@ -411,4 +411,4 @@ export class AppModule {
 
 ## License
 
-Natan © [Mamadou BAH](https://github.com/mamadou4bah or https://gitea.natan.fr/mamadoubah/)
+Natan © [Mamadou BAH ](https://github.com/mamadou4bah or https://gitea.natan.fr/mamadoubah)

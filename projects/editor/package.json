@@ -1,0 +1,48 @@
+{
+  "name": "ngx-monaco-editor-v2",
+  "version": "16.0.1",
+  "private": false,
+  "description": "Monaco Code Editor for Angular",
+  "keywords": [
+    "angular",
+    "angular 2+",
+    "angular 2",
+    "angular 4",
+    "angular 5",
+    "angular 6",
+    "angular 7",
+    "angular 8",
+    "angular 9",
+    "angular 10",
+    "angular 12",
+    "angular 14",
+    "angular 15",
+    "angular 16",
+    "monaco",
+    "monaco-editor",
+    "code",
+    "editor",
+    "reusable",
+    "component"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miki995/ngx-monaco-editor-v2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/miki995/ngx-monaco-editor-v2/issues"
+  },
+  "license": "NATAN",
+  "author": "Mamadou BAH",
+  "contributors": [
+    "Mamadou BAH <mamadou.bah@natan.fr>"
+  ],
+  "peerDependencies": {
+    "@angular/common": "^16.0.4",
+    "@angular/core": "^16.0.4",
+    "monaco-editor": "^0.41.0"
+  },
+  "dependencies": {
+    "tslib": "^2.1.0"
+  }
+}
